@@ -1,2 +1,2 @@
-# kc-js
+# javascript-keycodes
 Javascript Keyboard Code Library 
