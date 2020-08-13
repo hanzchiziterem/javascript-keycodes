@@ -1,5 +1,5 @@
 {
-  "name": "kc-js",
+  "name": "javascript-keycodes",
   "version": "1.0.0",
   "description": "Javascript Keyboard Code Library",
   "main": "dist/index.js",
